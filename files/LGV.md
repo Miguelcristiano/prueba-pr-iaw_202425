@@ -1,10 +1,10 @@
 # ¿Quién eres?
-Soy Luis Miguel García Velázquez
+Soy Alberto Coterillo González.
 
 # ¿Qué asignatura te gusta más?
-**PAR** e **IAW**
+A mí me gusta *SAD* y *IAW* (Seguridad y Alta Disponibilidad / Implantación de Aplicaciones Web).
 
 # ¿Por qué?
-Me gustan porque ha sido en lo que mas he trabajado los últimos años. También son los `modulos` que he impartido los dos último cursos como profesor.
+Me gustan porque son entretenidad y me atraen.
 
 ---
