@@ -19,3 +19,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [AH](files/AH.md)
 * [ADEB](files/ADEB.md)
 * [EDM](files/EDM.md)
+* [ASJ](files/ASJ.md)
