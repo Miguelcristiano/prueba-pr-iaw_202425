@@ -14,7 +14,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 ## Esta es la lista que tienes que modificar
 
 **¿Quién eres?, ¿qué asignatura te gusta más? y ¿por qué?**
-
+[MGR](files/mgr.md)
 * [ACG](files/ACG.md)
 * [LGV](files/LGV.md)
 * [AH](files/AH.md)
